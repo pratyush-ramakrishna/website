@@ -55,8 +55,8 @@ plugins:
 
 author:
   name     : "Pratyush Ramakrishna"
-  avatar   : "/assets/images/headshot_pratyush_1.jpg"
-  bio      : "Personal website and research portfolio of Pratyush Ramakrishna" 
+  avatar   : "/assets/images/headshot_pratyush_1.jpg" style="filter: grayscale(100%);"
+  bio      : "Personal website and research portfolio" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
