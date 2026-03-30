@@ -8,7 +8,7 @@
 /* Exclude avatar/photo from greyscale - restore color */
 .author__avatar img,
 .page__hero img {
-  filter: grayscale(0%);
+  filter: none !important;
 }
 
 /* Keep social links in color - GitHub, LinkedIn, etc */
