@@ -11,6 +11,13 @@ body {
   filter: grayscale(0%);
 }
 
+/* Keep social links in color - GitHub, LinkedIn, etc */
+.author__urls a,
+.author__urls-social a,
+.sidebar a.u-url {
+  filter: grayscale(0%) !important;
+}
+
 /* Ensure all text colors are in greyscale */
 a {
   color: #0066cc;
