@@ -1,9 +1,11 @@
 ---
-permalink: /about/
+permalink: https://pratyush-ramakrishna.github.io/website/
 title: "About"
 layout: single
 author_profile: true
 ---
+
+## About me
 
 I am a biomedical engineer and PhD candidate in Biomedical Engineering at Washington University in St. Louis, focusing on visual neuroscience. My research investigates how retinal circuits compute motion. In Dr. Daniel Kerschensteiner's and Dr. Joshua Morgan's labs, I use correlative light and electron microscopy (CLEM) and two-photon imaging to map anatomy and physiology across spatial scales. I have also developed custom image processing and neuronal simulation pipelines to link single-cell structure to circuit-level function.
 
