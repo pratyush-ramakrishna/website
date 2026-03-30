@@ -1,0 +1,50 @@
+/* Greyscale theme - convert website to black, white, and grey only */
+
+/* Apply greyscale filter to entire page */
+body {
+  filter: grayscale(100%);
+}
+
+/* Exclude avatar/photo from greyscale - restore color */
+.author__avatar img,
+.page__hero img {
+  filter: grayscale(0%);
+}
+
+/* Ensure all text colors are in greyscale */
+a {
+  color: #0066cc;
+  filter: grayscale(100%);
+}
+
+a:hover {
+  color: #004399;
+}
+
+/* Style backgrounds in neutral tones */
+.archive__subtitle {
+  color: #666;
+}
+
+/* Greyscale for all images except avatar */
+img:not(.author__avatar img):not(.page__hero img) {
+  filter: grayscale(100%);
+}
+
+/* Ensure proper contrast with greyscale */
+.sidebar {
+  background-color: #f5f5f5;
+}
+
+.page__inner-wrap {
+  background-color: #fff;
+}
+
+/* Posts and entries stay greyscale */
+.archive__item-excerpt {
+  color: #555;
+}
+
+.page__meta {
+  color: #999;
+}

@@ -17,7 +17,7 @@ title: Pratyush's Homepage
 email: pratyush.ramakrishna@gmail.com
 description: >-
   Personal website and research portfolio of Pratyush Ramakrishna.
-github_username: pratyush-ramakrishna
+github_username: pratyush-washu
 minimal_mistakes_skin: contrast
 search: true
 
@@ -56,17 +56,20 @@ plugins:
 author:
   name     : "Pratyush Ramakrishna"
   avatar   : "/assets/images/headshot_pratyush_1.jpg"
-  bio      : "Personal website and research portfolio" 
+  bio      : "PhD Candidate in Biomedical Engineering | Visual Neuroscience" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pratyush.ramakrishna@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pratyush-washu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=PLACEHOLDER"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pratyush-ramakrishna/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pratyush-ramakrishna"
 footer:
   links:
     - label: "LinkedIn"
@@ -74,7 +77,7 @@ footer:
       url: "https://www.linkedin.com/in/pratyush-ramakrishna/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pratyush-ramakrishna"
+      url: "https://github.com/pratyush-washu"
 
 defaults:
   # _posts
