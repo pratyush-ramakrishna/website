@@ -1,9 +1,9 @@
 /* Greyscale theme - convert website to black, white, and grey only */
 
 /* Apply greyscale filter to entire page */
-body {
+/* body {
   filter: grayscale(100%);
-}
+} */
 
 /* Exclude avatar/photo from greyscale - restore color */
 .author__avatar img,
