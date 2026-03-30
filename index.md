@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 title: "About Me"
 ---
 
@@ -14,3 +15,5 @@ My thesis research investigates how the morphological and biophysical properties
 I am also interested in translating research into clinical tools and have worked in the St. Louis startup ecosystem. As a Brain Mapping Intern at Turing Medical, I developed an MRI image processing module to correct for motion artifacts. This tool is now part of an FDA-cleared product. Additionally, as a Consultant for The BALSA Group, I provided business strategy, market assessment, and competitor analysis for a local biomedical startup.
 
 Before my PhD, I completed a BS and MS in Natural Sciences at the Indian Institute of Science Education and Research (IISER), Pune in 2018. During my master's research, I modeled the reaction-diffusion kinetics of Amyloid Precursor Protein (APP) in reconstructed hippocampal synapses using Monte Carlo simulations. I also developed Hodgkin-Huxley-based computational neuron models to investigate the biophysical basis of Alpha oscillations and their disruption in Alzheimer's disease.
+
+You can find my [resume here](/resume/), [projects here](/projects/), and [publications here](/publications/).
