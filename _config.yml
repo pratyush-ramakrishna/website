@@ -56,7 +56,7 @@ plugins:
 author:
   name     : "Pratyush Ramakrishna"
   avatar   : "/assets/images/headshot_pratyush_1.jpg"
-  bio      : "PhD Candidate in Biomedical Engineering | Visual Neuroscience" 
+  bio      : "PhD Candidate in Biomedical Engineering, Washington University in St. Louis" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -16,4 +16,4 @@ I am also interested in translating research into clinical tools and have worked
 
 Before my PhD, I completed a BS and MS in Natural Sciences at the Indian Institute of Science Education and Research (IISER), Pune in 2018. During my master's research, I modeled the reaction-diffusion kinetics of Amyloid Precursor Protein (APP) in reconstructed hippocampal synapses using Monte Carlo simulations. I also developed Hodgkin-Huxley-based computational neuron models to investigate the biophysical basis of Alpha oscillations and their disruption in Alzheimer's disease.
 
-You can find my [resume here](/resume/), [projects here](/projects/), and [publications here](/publications/).
+You can find my [resume here](/resume/), [projects here](/projects/), and [publications here](https://scholar.google.com/citations?user=qfDZGToAAAAJ&hl=en).
