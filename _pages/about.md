@@ -1,5 +1,5 @@
 ---
-permalink: https://pratyush-ramakrishna.github.io/website/
+permalink: /about/
 title: "About"
 layout: single
 author_profile: true
