@@ -19,8 +19,19 @@ author_profile: false
 </style>
 
 <figure>
-  <img src="../assets/images/alpha_panel.png" alt="Phase-Relationships of High-Threshold Bursting Thalamocortical Neurons" style="display: block; margin: 0 auto; width: 60%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <img src="../assets/images/alpha_panel.png" alt="Phase-Relationships of High-Threshold Bursting Thalamocortical Neurons" style="filter: none !important; display: block; margin: 0 auto; width: 60%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
   <figcaption style="margin-top: 15px; font-size: 0.9em;">
-    Using differential-equation-based neuron models in Python, we simulated a network of high-threshold thalamocortical (HTC) bursting neurons coupled via gap junctions to investigate their role in modulating Alpha oscillations. This work was presented at the Society for Neuroscience (SfN) Annual Meeting, 2017.
+    Using differential-equation-based neuron models in C++ and Python, we simulated a network of high-threshold thalamocortical (HTC) bursting neurons coupled via gap junctions to investigate their role in modulating Alpha oscillations in the brain. This work was presented at the Society for Neuroscience (SfN) Annual Meeting, 2017.
+  </figcaption>
+</figure>
+
+---
+
+### 3D Stochastic Reaction-Diffusion Modeling of Amyloid Precursor Protein in Synapses
+
+<figure>
+  <img src="../assets/images/reaction_diffusion.png" alt="3D Stochastic Reaction-Diffusion Modeling of APP in Synapses" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    Using Monte Carlo simulations within 3DEM hippocampal synapses reconstructed in Blender, we modeled the nanoscale reaction-diffusion kinetics of Amyloid Precursor Protein (APP) and secretases to investigate the biophysical mechanisms of amyloidogenic processing. This work was published in <a href="https://www.cell.com/iscience/fulltext/S2589-0042(20)31121-4" target="_blank">iScience</a> and <a href="https://pubs.rsc.org/en/content/articlehtml/2020/nr/d0nr00052c" target="_blank">Nanoscale</a>.
   </figcaption>
 </figure>
