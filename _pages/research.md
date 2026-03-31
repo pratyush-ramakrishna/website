@@ -16,6 +16,38 @@ author_profile: false
   }
 </style>
 
+### 3D Ultrastructural Reconstruction of Retinal Microcircuits
+
+<figure>
+  <img src="../assets/images/panel_em_segm_manual.png" alt="3D Ultrastructural Reconstruction of Retinal Microcircuits" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    By performing manual 3D segmentation on multi-resolution electron microscopy datasets, we reconstructed the synaptic ultrastructure to map the specific connectivity motifs between TH2 amacrine cells and diverse downstream ganglion cell targets.
+  </figcaption>
+</figure>
+
+---
+
+### Two-Photon Calcium Imaging of Dendritic Orientation Tuning
+
+<figure>
+  <img src="../assets/images/panel_twopm.png" alt="Two-Photon Calcium Imaging of Dendritic Orientation Tuning" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    Through dendritic ROI segmentation and image processing of two-photon GCaMP6f imaging data, we mapped subcellular receptive fields to demonstrate that sparse distal neurites exhibit orientation-selective responses strongly aligned with their anatomical axes.
+  </figcaption>
+</figure>
+
+---
+
+### Electrophysiological Mapping of Object-Motion Sensitive Circuit
+
+<figure>
+  <img src="../assets/images/panel_patch.png" alt="Electrophysiological Mapping of Object-Motion Sensitive Circuit" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    We utilized targeted patch-clamp electrophysiology and custom signal processing algorithms to extract and analyze spike data from W3 ganglion cells, mapping the complex receptive field geometries that preserve object-motion sensitivity against background clutter.
+  </figcaption>
+</figure>
+
+---
 
 ### Biophysical Compartmental Modeling of TH2 Receptive Fields
 
