@@ -10,9 +10,19 @@ author_profile: false
 
 ### Phase-Relationships of High-Threshold Bursting Thalamocortical Neurons
 
+<style>
+  .page {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+  .page__inner-wrap {
+    max-width: 100% !important;
+  }
+</style>
+
 <figure>
-  <img src="/assets/images/alpha_panel.png" alt="Phase-Relationships of High-Threshold Bursting Thalamocortical Neurons" style="max-width: 100%; border: 1px solid #ddd; padding: 5px;">
-  <figcaption style="margin-top: 15px; font-size: 0.9em; font-style: italic;">
+  <img src="{{ '/assets/images/alpha_panel.png' | relative_url }}" alt="Phase-Relationships of High-Threshold Bursting Thalamocortical Neurons" style="max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
     Using differential-equation-based neuron models in Python, we simulated a network of high-threshold thalamocortical (HTC) bursting neurons coupled via gap junctions to investigate their role in modulating Alpha oscillations. This work was presented at the Society for Neuroscience (SfN) Annual Meeting, 2017.
   </figcaption>
 </figure>
