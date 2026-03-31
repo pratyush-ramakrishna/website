@@ -16,10 +16,32 @@ author_profile: false
   }
 </style>
 
+### Multiresolution Correlative Light and Electron Microscopy of TH2 Amacrine Cells
+
+<figure>
+  <img src="../assets/images/panel_em_volume.png" alt="Multiresolution Correlative Light and Electron Microscopy of TH2 Amacrine Cells" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    To target specific neurons for ultrastructural reconstruction, we employed multiresolution correlative light and electron microscopy (CLEM) to map genetically labeled TH2 amacrine cells. We precisely registered large-scale confocal fluorescence mosaics to a ~6TB (300 &times; 300 &times; 48 &mu;m) serial-section electron microscopy volume using blood vessels and nuclear patterns as fiducial landmarks, enabling the exact identification and alignment of TH2 cells across imaging modalities.
+  </figcaption>
+</figure>
+
+---
+
+### Automated 3D Segmentation of Retinal Microcircuits using Flood-Filling Networks
+
+<figure>
+  <img src="../assets/images/panel_em_segm.png" alt="Automated 3D Segmentation of Retinal Microcircuits using Flood-Filling Networks" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    Manual segmentation of electron microscopy datasets remains a significant bottleneck in connectomic analysis. To accelerate the reconstruction of our multi-resolution EM data, we deployed Flood-Filling Networks (FFN), a 3D Convolutional Neural Network framework developed by Google <a href="https://www.nature.com/articles/s41592-018-0049-4" target="_blank">(Januszewski et al., 2018)</a>. Using TensorFlow, we trained the network on Tesla V100 GPUs utilizing the high-performance computing cluster at WashU. We employed transfer learning, initializing the model with weights from a prior Lateral Geniculate Nucleus (LGN) dataset to train the network on our manually segmented retinal Inner Plexiform Layer (IPL) ground truth.
+  </figcaption>
+</figure>
+
+---
+
 ### 3D Ultrastructural Reconstruction of Retinal Microcircuits
 
 <figure>
-  <img src="../assets/images/panel_em_segm_manual.png" alt="3D Ultrastructural Reconstruction of Retinal Microcircuits" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <img src="../assets/images/panel_em_segm_manual.png" alt="3D Ultrastructural Reconstruction of Retinal Microcircuits" style="filter: none !important; display: block; margin: 0 auto; width: 100%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
   <figcaption style="margin-top: 15px; font-size: 0.9em;">
     By performing manual 3D segmentation on multi-resolution electron microscopy datasets, we reconstructed the synaptic ultrastructure to map the specific connectivity motifs between TH2 amacrine cells and diverse downstream ganglion cell targets.
   </figcaption>
@@ -30,7 +52,7 @@ author_profile: false
 ### Two-Photon Calcium Imaging of Dendritic Orientation Tuning
 
 <figure>
-  <img src="../assets/images/panel_twopm.png" alt="Two-Photon Calcium Imaging of Dendritic Orientation Tuning" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <img src="../assets/images/panel_twopm.png" alt="Two-Photon Calcium Imaging of Dendritic Orientation Tuning" style="filter: none !important; display: block; margin: 0 auto; width: 100%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
   <figcaption style="margin-top: 15px; font-size: 0.9em;">
     Through dendritic ROI segmentation and image processing of two-photon GCaMP6f imaging data, we mapped subcellular receptive fields to demonstrate that sparse distal neurites exhibit orientation-selective responses strongly aligned with their anatomical axes.
   </figcaption>
