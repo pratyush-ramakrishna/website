@@ -15,4 +15,4 @@ I am also interested in translating research into clinical tools and have worked
 
 Before my PhD, I completed a BS and MS in Natural Sciences at the Indian Institute of Science Education and Research (IISER), Pune in 2018. During my master's research, I modeled the reaction-diffusion kinetics of Amyloid Precursor Protein (APP) in reconstructed hippocampal synapses using Monte Carlo simulations. I also developed Hodgkin-Huxley-based computational neuron models to investigate the biophysical basis of Alpha oscillations and their disruption in Alzheimer's disease.
 
-You can find my [resume here](/resume/), [projects here](https://pratyush-ramakrishna.github.io/website/research/), and [publications here](https://scholar.google.com/citations?user=qfDZGToAAAAJ&hl=en).
+You can find my <a href="assets/pratyush_resume_v9_030526.pdf" target="_blank">resume here</a>, [projects here](https://pratyush-ramakrishna.github.io/website/research/), and [publications here](https://scholar.google.com/citations?user=qfDZGToAAAAJ&hl=en).

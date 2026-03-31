@@ -21,7 +21,7 @@ author_profile: false
 <figure>
   <img src="../assets/images/panel_em_volume.png" alt="Multiresolution Correlative Light and Electron Microscopy of TH2 Amacrine Cells" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
   <figcaption style="margin-top: 15px; font-size: 0.9em;">
-    To target specific neurons for ultrastructural reconstruction, we employed multiresolution correlative light and electron microscopy (CLEM) to map genetically labeled TH2 amacrine cells. We precisely registered large-scale confocal fluorescence mosaics to a ~6TB (300 &times; 300 &times; 48 &mu;m) serial-section electron microscopy volume using blood vessels and nuclear patterns as fiducial landmarks, enabling the exact identification and alignment of TH2 cells across imaging modalities.
+    To target specific neurons in the retina, we used correlative light and electron microscopy (CLEM) to map genetically labeled TH2 amacrine cells. We aligned large confocal images to a ~6TB (300 &times; 300 &times; 48 &mu;m) 3D electron microscopy volume. Using blood vessels and cell nuclei as reference points, we located and matched the exact same TH2 cells across both imaging methods.
   </figcaption>
 </figure>
 
