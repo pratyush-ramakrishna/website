@@ -21,7 +21,6 @@
 /* Ensure all text colors are in greyscale */
 a {
   color: #0066cc;
-  filter: grayscale(100%);
 }
 
 a:hover {
@@ -33,10 +32,7 @@ a:hover {
   color: #666;
 }
 
-/* Greyscale for all images except avatar */
-img:not(.author__avatar img):not(.page__hero img) {
-  filter: grayscale(100%);
-}
+
 
 /* Ensure proper contrast with greyscale */
 .sidebar {
