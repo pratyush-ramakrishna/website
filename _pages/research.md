@@ -17,6 +17,17 @@ author_profile: false
 </style>
 
 
+### Biophysical Compartmental Modeling of TH2 Receptive Fields
+
+<figure>
+  <img src="../assets/images/panel_neuron_model.png" alt="Biophysical Compartmental Modeling of TH2 Receptive Fields" style="filter: none !important; display: block; margin: 0 auto; width: 80%; max-width: 100%; border: 1px solid #ddd; padding: 5px;">
+  <figcaption style="margin-top: 15px; font-size: 0.9em;">
+    We implemented anatomically constrained, biophysically realistic compartmental neuron models in NEURON to simulate dendritic integration and map functional receptive field geometries across the TH2 amacrine cell arbor.
+  </figcaption>
+</figure>
+
+---
+
 ### Population-Level Modeling of TH2 Inhibitory Surrounds
 
 <figure>
@@ -26,7 +37,7 @@ author_profile: false
   </figcaption>
 </figure>
 
-
+---
 
 ### 3D Stochastic Reaction-Diffusion Modeling of Amyloid Precursor Protein in Synapses
 
